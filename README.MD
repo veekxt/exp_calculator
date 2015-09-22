@@ -30,8 +30,7 @@
 
 
 Brief introduction
-
-= = =
+===
 
 Do not use recursion or compiler principle, pure string analysis, the realization of an expression calculator
 
@@ -44,8 +43,7 @@ now supported:
 + a specific function, such as RGB rgb_hex hex: (210,34,78)
 
 Use help
-
-= = =
+===
 
 + input :h to get help
 + do not check + expression, do not check the function parameters, the expression error will cause results such as what the 0 There's no telling, divided by.
@@ -65,8 +63,7 @@ Use help
 + use the "on ST" and "off ST" to print the calculation of each step
 
 Code structure
-
-= = =
+===
 
 + main.c extraction sub expressions and calculations
 
